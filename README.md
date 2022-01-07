@@ -19,7 +19,7 @@ Partially Assembled:
 
 Some notes real quick before putting anything on the board:
 
-![image](https://user-images.githubusercontent.com/51302710/144122027-1740cdab-1119-45a4-ba0c-7c951bffd989.png)
+![image](https://user-images.githubusercontent.com/51302710/148618071-a5bbe9bc-04af-4a96-b2ac-071339b153b0.png)
 
 The two capacitors on the right need to be filpped 180 degrees so the polarities are swapped, and all of the rest are fine, with the white being positive and dark being neagtive. Other then that, you can build it however you want. I found that its better to use a littlbe bit thicker audio cable, because the stuff that i used was really thin and I ened up having to solder it a bit to get the connectors to stay on.
 
