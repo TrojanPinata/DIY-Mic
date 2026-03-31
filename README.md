@@ -4,6 +4,9 @@ A DIY microphone built using the design of DIY Perks and modified by me. I wante
 # Credit
 This would not be possible without DIY Perks and the resources he provided. The stripboard and base wiring diagram are extremely helpful as well as his overall attention to detail. Video link here: https://www.youtube.com/watch?app=desktop&v=LoQu3XXIayc
 
+# PCB Assembly Note
+If you are building the PCB version of this project, please note that you should reverse the polarity of capacitor C2 (the bottom most capacitor on the board) as it should have a negative voltage coming from the regulator. (2026-03-31)
+
 # Acquiring Parts
 For this build, there are a number of parts you will need. In the video he goes all out in brass, which for most of us at home, seems absurd because of how uncommon it is to have the exact diameter of brass tubing or brass mesh lying around. I ran into this problem early on, so I designed a box and lid for mine that should work in place of a ton of brass and wood and is easily 3d printable (STLs above). I know most people don't have 3d printers, but I feel like this is slightly more accessible for those without hordes of tools. I also used a mic arm I found in the trash to make the arm instead of building it. So, with the 'housing' out of the way, everything else can be found in this list (or at least what I used/needed):
 
